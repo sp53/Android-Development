@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="press_me">Press Me !</string>
+    <string name="chk">chk</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="button_label_toast">Hello Toast!</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_count">Count</string>
+    <string name="toast_message">yo android bitch !</string>
+</resources>
