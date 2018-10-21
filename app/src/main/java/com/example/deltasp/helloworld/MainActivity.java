@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mShowCount = (TextView) findViewById(R.id.textView2);
-        // cooment
+        // cooment jo kol
     }
 
     public void onButtonTap(View v) {
